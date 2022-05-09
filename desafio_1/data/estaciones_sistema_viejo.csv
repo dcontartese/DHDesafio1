@@ -1,0 +1,205 @@
+id_estacion,nombre_estacion,long_estacion,lat_estacion,domicilio_estacion,tipo_estacion,observaciones,horario_estacion
+1.0,Facultad de Derecho,-58.392452073017,-34.5831330757635,Av. Pres.Figueroa Alcorta y  Juan A.Bibiloni,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+2.0,Retiro,-58.3748217877563,-34.5925888097729,Av. Dr.Jose Ramos Mejia y Del Libertador Av,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+3.0,Aduana,-58.368917842554104,-34.6112420249771,Av. Ing.Huergo y Av. Belgrano,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+4.0,Plaza Roma,-58.3689503833679,-34.6017210875929,Lavalle y Bouchard,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+5.0,Plaza Italia,-58.420997041077996,-34.5801273443074,Av. Santa Fe y Av. Sarmiento,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+6.0,Parque Lezama,-58.3697086719241,-34.62830131247,Av Martín García e Irala,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+7.0,Obelisco,-58.3809896041082,-34.6058404963166,Av. 9 de Julio y Tte. Gral Juan Domingo Perón,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+8.0,Congreso,-58.389253260153296,-34.6099304592001,Av. Hipólito Yrigoyen y Virrey Ceballos,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+9.0,Parque Las Heras,-58.4071446712567,-34.5839145725724,Parque Las Heras,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+10.0,Puerto Madero - UCA,-58.3657458611297,-34.61555142799749,Moreau de Justo 1500,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+11.0,Tribunales,-58.385021610721594,-34.6013128134582,Tribunales,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+12.0,Plaza Vicente López,-58.388948867519595,-34.5931772798824,Plaza Vicente López,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+13.0,Once,-58.4065992807793,-34.6096220036013,Plaza Miserere,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+14.0,Pacífico,-58.4263198647396,-34.5777874974914,Pacífico,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+15.0,Cochabamba,,,,,,
+16.0,Legislatura,-58.374717240582,-34.6099593400598,Perú y Diagonal Sur,,,
+17.0,Plaza Almagro,-58.41883221444161,-34.606398525093304,Plaza Almagro,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+18.0,Independencia,-58.3804806550249,-34.6173731525033,Av. Independencia y 9 de Julio,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+19.0,Plaza San Martín,-58.3775489312645,-34.5954047949981,Plaza San Martín,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+20.0,Distrito Audiovisual,-58.441788509931705,-34.5800361241865,Zapiola y Dorrego,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+21.0,Parque Patricios,-58.4066133884138,-34.6400292426058,Iguazú y Uspallata,AUTOMÁTICA,Nueva estación! - Mayo 2015,Estación automática: disponibilidad las 24 horas
+22.0,Arenales,-58.38257045923661,-34.594099836289,Arenales y Cerrito,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+23.0,Suipacha,-58.3795661232215,-34.6002957825126,Suipacha y Viamonte,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+24.0,Alsina,-58.3807669356213,-34.6105722194484,Adolfo Alsina y Bernardo de Irigoyen,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+25.0,Plaza Güemes,-58.416065021838506,-34.5895207284602,Salguero Jerónimo y Mansilla,,,
+26.0,Juana Manso,-58.3636035935707,-34.6010006869203,Emma de la Barra y Juana Manso,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática) - Se modificó el nombre (ex Emma de la Barra),Estación automática: disponibilidad las 24 horas
+27.0,Montevideo,-58.38989599839621,-34.5995678801944,Av. Córdoba y Montevideo,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+28.0,Plaza Boedo,-58.412398197949294,-34.6228502511336,Carlos Calvo entre Virrey Liniers y Sánchez de Loria,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+29.0,Parque Centenario,-58.4345767879498,-34.6084590356008,Patricias Argentinas y Carlos Finlay,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+30.0,Peña,-58.3973783649902,-34.5903936115174,Azcuénaga y Peña,AUTOMÁTICA,Nueva estación! - Abril de 2015 (se incorpora con el sistema automático),Estación automática: disponibilidad las 24 horas
+31.0,Padilla,-58.439709218240296,-34.603162361388605,Padilla y Warnes Av,AUTOMÁTICA,Nueva estación! - Enero 2016,Estación automática: disponibilidad las 24 horas
+32.0,Catedral,-58.373531429153296,-34.607727795686195,San Martín y Rivadavia,AUTOMÁTICA,Nueva estación! - Abril de 2015 (se incorpora con el sistema automático),Estación automática: disponibilidad las 24 horas
+33.0,Facultad de Medicina,-58.398717085205796,-34.5971266094165,Uriburu y Marcelo T. de Alvear,AUTOMÁTICA,Nueva estación! - Junio 2015,Estación automática: disponibilidad las 24 horas
+34.0,Galerías Pacífico,-58.374157286157704,-34.5995794260034,"San Martín 710, entre Viamonte y Córdoba",AUTOMÁTICA,Nueva estación! - Junio 2015,Estación automática: disponibilidad las 24 horas
+35.0,Ingeniero Butty,-58.3718578675869,-34.596327388790996,Ing. Butty y Leandro N. Alem,AUTOMÁTICA,Nueva estación! - Abril de 2015 (se incorpora con el sistema automático),Estación automática: disponibilidad las 24 horas
+36.0,Maipú,-58.3765960288027,-34.6053688674684,Maipú y Sarmiento,AUTOMÁTICA,Nueva estación! - Abril de 2015 (se incorpora con el sistema automático),Estación automática: disponibilidad las 24 horas
+37.0,Piedras,-58.3778640062235,-34.60791436370989,Esmeralda y Rivadavia,AUTOMÁTICA,Nueva estación! - Abril de 2015 (se incorpora con el sistema automático),Estación automática: disponibilidad las 24 horas
+38.0,Plaza Libertad,-58.3828953844952,-34.5969901800416,Cerrito y Marcelo T. de Alvear,AUTOMÁTICA,Nueva estación! - Abril de 2015 (se incorpora con el sistema automático),Estación automática: disponibilidad las 24 horas
+39.0,Santiago del Estero,,,,,,
+39.0,Congreso II,-58.3876529230089,-34.6089915917558,Av Rivadavia y Paraná,AUTOMÁTICA,Agosto 2017,Estación automática: disponibilidad las 24 horas
+40.0,Sarmiento,-58.373371100742,-34.6043980605276,"Sarmiento 481, entre Reconquista y San Martín",AUTOMÁTICA,Nueva estación! - Junio 2015,Estación automática: disponibilidad las 24 horas
+41.0,Urquiza,-58.4075919835788,-34.636519409884,Gral Urquiza y Rondeau,AUTOMÁTICA,Nueva estación! - Julio 2015,Estación automática: disponibilidad las 24 horas
+42.0,Diagonal Norte,-58.379651843941794,-34.604641737040005,Roque Sáenz Peña y Suipacha,AUTOMÁTICA,Nueva estación! - Agosto 2015,Estación automática: disponibilidad las 24 horas
+43.0,Plaza Houssay,-58.3985214522976,-34.599189849214696,Plaza Houssay,AUTOMÁTICA,Nueva estación! - Se pasó de Manual a Automática en Junio 2015,Estación automática: disponibilidad las 24 horas
+44.0,Zoológico,-58.414594877753494,-34.5754853233668,Av Del Libertador y Av Sarmiento,AUTOMÁTICA,Nueva estación! - Junio 2015,Estación automática: disponibilidad las 24 horas
+45.0,Uruguay,-58.3869126629142,-34.6016160280163,Tucumán y Uruguay,AUTOMÁTICA,Febrero 2017,Estación automática: disponibilidad las 24 horas
+46.0,Chile,-58.37438882454271,-34.6163784807971,Perú 726,AUTOMÁTICA,Nueva estación! - Julio 2015,Estación automática: disponibilidad las 24 horas
+47.0,Colegio Nacional Buenos Aires,-58.3735574617984,-34.6107824192457,Bolivar entre Adolfo Alsina y Moreno,AUTOMÁTICA,Nueva estación! - Febrero 2016,Estación automática: disponibilidad las 24 horas
+48.0,Perón,-58.3715948631615,-34.6054911775454,Perón Juan entre 25 de Mayo y Reconquista,AUTOMÁTICA,Nueva estación! - Agosto 2015,Estación automática: disponibilidad las 24 horas
+49.0,Treinta y Tres Orientales,-58.422422403807204,-34.6288173658193,Constitución 4101 y Treinta y Tres Orientales,AUTOMÁTICA,Nueva! Septiembre 2016,Estación automática: disponibilidad las 24 horas
+50.0,Hospital Rivadavia,-58.4011477812048,-34.5836773298631,Lucena Pereyra 2516 entre Las Heras y Pagano,AUTOMÁTICA,Agosto 2016,Estación automática: disponibilidad las 24 horas
+51.0,Tucumán,-58.3824487653053,-34.6015861695762,Tucumán y Cerrito,AUTOMÁTICA,Julio 2015,Estación automática: disponibilidad las 24 horas
+52.0,Sánchez de Bustamante,-58.4146677521709,-34.6070890121579,Sánchez de Bustamante y Perón Juan,AUTOMÁTICA,Nueva estación! - Septiembre 2015,Estación automática: disponibilidad las 24 horas
+53.0,Ricardo Rojas,-58.3742822955873,-34.5958814445217,San Martín 1031,AUTOMÁTICA,Nueva estación! - Julio 2015,Estación automática: disponibilidad las 24 horas
+54.0,Acuña de Figueroa,-58.4217046052783,-34.5982221815643,Lavalle y Acuña de Figueroa,AUTOMÁTICA,Marzo 2017,Estación automática: disponibilidad las 24 horas
+55.0,Bouchard,-58.36962170868061,-34.599337457664106,Viamonte 101 y Bouchard,AUTOMÁTICA,Julio 2016,Estación automática: disponibilidad las 24 horas
+56.0,Plaza Palermo Viejo,-58.425072429468,-34.5893711824472,Costa Rica y Malabia,AUTOMÁTICA,Nueva estación! - Octubre 2015,Estación automática: disponibilidad las 24 horas
+57.0,Belgrano,-58.370576623393795,-34.613384646496804,Balcarce 482 entre Belgrano y Venezuela,AUTOMÁTICA,Nueva estación! - Septiembre 2015,Estación automática: disponibilidad las 24 horas
+58.0,Ministro Carranza,-58.43462631699821,-34.575189674801,Santa Fe 5327 entre Dorrego y Arévalo,AUTOMÁTICA,Nueva estación! - Octubre 2015,Estación automática: disponibilidad las 24 horas
+59.0,Coronel Díaz,-58.411495316773994,-34.5902244780447,Güemes 3328 y Coronel Diaz,AUTOMÁTICA,Nueva estación! - Febrero 2016,Estación automática: disponibilidad las 24 horas
+60.0,25 de Mayo,-58.371155474862796,-34.6016384998143,25 de Mayo y Lavalle,AUTOMÁTICA,Nueva estación! - Agosto 2015,Estación automática: disponibilidad las 24 horas
+61.0,Ministerio de Economía,-58.3708343749879,-34.6090860400313,Balcarce 101 entre Av. Hipólito Yrigoyen y Alsina,AUTOMÁTICA,Nueva estación! - Febrero 2016,Estación automática: disponibilidad las 24 horas
+62.0,Córdoba,-58.3769007239132,-34.598515523188,Maipú 820,AUTOMÁTICA,Nueva estación! - Julio 2015,Estación automática: disponibilidad las 24 horas
+63.0,Reconquista,-58.372723516254,-34.59946924973,Reconquista 716 y Av Córdoba,AUTOMÁTICA,Nueva estación: 29/02/2016,Estación automática: disponibilidad las 24 horas
+64.0,Riobamba,-58.394439682611704,-34.5941490349228,Riobamba y Juncal,AUTOMÁTICA,Nueva estación! - Enero 2016,Estación automática: disponibilidad las 24 horas
+65.0,Julián Álvarez,-58.4159396842283,-34.5872157390033,Güemes 3822 entre Julián Álvarez y Araoz,AUTOMÁTICA,Nueva estación! - Febrero 2016,Estación automática: disponibilidad las 24 horas
+66.0,Billinghurst,-58.41385892691,-34.5946291440332,De la Cárcova 3508,AUTOMÁTICA,Junio 2016,Estación automática: disponibilidad las 24 horas
+67.0,Senillosa,-58.425477470589,-34.6385009158718,Senillosa 1905 y zañartú,AUTOMÁTICA,Agosto 2016,Estación automática: disponibilidad las 24 horas
+68.0,Rivarola,-58.3853975745649,-34.6066473499434,Dr. Rodolfo Rivarola 175 entre Tte. Gral. Juan Domingo Perón y Bartolomé Mitre,AUTOMÁTICA,Nueva estación! - Septiembre 2015,Estación automática: disponibilidad las 24 horas
+69.0,Ecuador,-58.4043560649594,-34.5958623506374,Ecuador 1200 y Mansilla,AUTOMÁTICA,Nueva estación! - Febrero 2016,Estación automática: disponibilidad las 24 horas
+70.0,Aráoz,-58.425816435958296,-34.592672511996795,Aráoz 1413 entre Gorriti y Honduras,AUTOMÁTICA,Junio 2016,Estación automática: disponibilidad las 24 horas
+71.0,Cerrito,-58.38284296772061,-34.6029957670657,Av. Roque Saenz Peña 1149 entre Libertad y Cerrito,AUTOMÁTICA,"Nueva estación! - Febrero 2016 (antes figuraba con nombre ""Libertad"")",Estación automática: disponibilidad las 24 horas
+72.0,Venezuela,-58.3745525014373,-34.613650393454996,Perú 490 y Venezuela,AUTOMÁTICA,Nueva estación: 29/02/2016,Estación automática: disponibilidad las 24 horas
+73.0,Ruy Díaz de Guzmán,-58.3717059086228,-34.6308122093612,Ruy Díaz de Guzmán y Av. Martín García,AUTOMÁTICA,Abril 2017,Estación automática: disponibilidad las 24 horas
+74.0,Instituto Leloir,-58.434242799113996,-34.604571775755,"Av. Patricias Argentinas 401, entre Juana de Ibarbourou y Av. Machado",AUTOMÁTICA,Nueva estación! - Febrero 2016,Estación automática: disponibilidad las 24 horas
+75.0,Plaza Primero de Mayo,-58.398904702934196,-34.6121235856114,Pichincha entre Adolfo Alsina y Moreno,AUTOMÁTICA,Diciembre 2016,Estación automática: disponibilidad las 24 horas
+76.0,Ayacucho,-58.3949273062838,-34.607572645092,Ayacucho entre Perón Juan y Bartolomé Mitre,AUTOMÁTICA,Nueva estación! - Enero 2016,Estación automática: disponibilidad las 24 horas
+77.0,Sarandí,-58.3948309043474,-34.6112703094325,Sarandí entre Adolfo Alsina e Hipólito Yrigoyen,AUTOMÁTICA,Diciembre 2016,Estación automática: disponibilidad las 24 horas
+78.0,Suipacha y Arroyo,-58.3803382442443,-34.5914156869824,Arroyo y Suipacha,AUTOMÁTICA,"Agosto 2016 - En Julio de 2017 cambió su nombre y ubicación. Antes era ""Arroyo""",Estación automática: disponibilidad las 24 horas
+79.0,Azucena Villaflor,-58.3639690795297,-34.611720675269396,Azucena Villaflor y Pierina Dealessi,AUTOMÁTICA,Diciembre 2016,Estación automática: disponibilidad las 24 horas
+80.0,Doblas,-58.430319869395504,-34.6241295471149,Doblas 608 y Valle,AUTOMÁTICA,Agosto 2016,Estación automática: disponibilidad las 24 horas
+81.0,Balcarce,-58.3708787659055,-34.6158474133672,Balcarce 683 entre Chile y Defensa,AUTOMÁTICA,Junio 2016,Estación automática: disponibilidad las 24 horas
+82.0,Hospital Italiano,-58.4262666390011,-34.607429501613005,Rawson entre Potosí y Díaz Vélez,AUTOMÁTICA,Nueva estación! - Febrero 2016,Estación automática: disponibilidad las 24 horas
+83.0,Paraná,-58.388415093700104,-34.603004436286504,Lavalle enttre Montevideo y Paraná,AUTOMÁTICA,Abril 2017,Estación automática: disponibilidad las 24 horas
+84.0,Lavalle,-58.3954716595379,-34.6022901190225,Ayacucho 595 entre Tucumán y Lavalle,AUTOMÁTICA,Junio 2016,Estación automática: disponibilidad las 24 horas
+85.0,Agüero,-58.409034003474,-34.5946161105705,Aguero y Mansilla,,,
+86.0,Saavedra,-58.401720369330704,-34.621356081357696,Saavedra 1027 entre Carlos Calvo Y Humberto 1º,AUTOMÁTICA,Septiembre 2016,Estación automática: disponibilidad las 24 horas
+87.0,Guayaquil,-58.431535896984606,-34.6198285372612,Guayaquil 213 y Doblas,AUTOMÁTICA,Nueva! Septiembre 2016,Estación automática: disponibilidad las 24 horas
+88.0,Misiones,-58.404230050846,-34.6128670912616,Misiones entre Adolfo Alsina y Moreno,AUTOMÁTICA,Agosto de 2016,Estación automática: disponibilidad las 24 horas
+89.0,Cabello,-58.4053126989307,-34.5824723755753,Cabello entre Cnel Díaz y Ortiz de Ocampo,AUTOMÁTICA,Marzo 2017,Estación automática: disponibilidad las 24 horas
+90.0,Gutiérrez,-58.399368569691,-34.5871172067942,Juan Maria Gutiérrez entre Aguero y Laprida,AUTOMÁTICA,Marzo 2017,Estación automática: disponibilidad las 24 horas
+91.0,Pasco,-58.397547065967906,-34.6174914920679,Pasco 708 entre Chile y Av Independencia,AUTOMÁTICA,Julio 2016,Estación automática: disponibilidad las 24 horas
+92.0,Salcedo,-58.4050191499757,-34.6317246877284,Salcedo 2908 y Dean Funes,AUTOMÁTICA,Diciembre 2016,Estación automática: disponibilidad las 24 horas
+93.0,Carlos Calvo,-58.39476949340071,-34.6206013403211,Carlos Calvo y Sarandí,AUTOMÁTICA,Abril 2017,Estación automática: disponibilidad las 24 horas
+94.0,Guzmán,-58.449442063758795,-34.5918191166975,Guzmán y Leiva,AUTOMÁTICA,Nueva estación! - Enero 2016,Estación automática: disponibilidad las 24 horas
+95.0,Esmeralda,-58.3781735400286,-34.6020919024436,Esmeralda 510,AUTOMÁTICA,Nueva estación! - Febrero 2016,Estación automática: disponibilidad las 24 horas
+96.0,Carlos Gardel,-58.4115848948388,-34.602891143934,Guardia Vieja 3302,AUTOMÁTICA,Junio 2016,Estación automática: disponibilidad las 24 horas
+97.0,Avelino Díaz,-58.4274014111176,-34.6352502807008,Avelino Díaz 499 y Doblas,AUTOMÁTICA,Nueva! Septiembre 2016,Estación automática: disponibilidad las 24 horas
+98.0,Moreno,-58.378121718966895,-34.6117139986102,Moreno 834 entre Tacuarí y Piedras,AUTOMÁTICA,Julio 2016,Estación automática: disponibilidad las 24 horas
+99.0,Malabia,-58.435615487267285,-34.5962805421679,Malabia 780 y Loyola,AUTOMÁTICA,Junio 2016,Estación automática: disponibilidad las 24 horas
+100.0,Castillo,-58.4367711514498,-34.592706718923395,Castillo 815 entre Thames y Serrano,AUTOMÁTICA,Marzo 2017,Estación automática: disponibilidad las 24 horas
+101.0,Fitz Roy,-58.4424227041164,-34.5890491463383,Fitz Roy 1092 y Loyola,AUTOMÁTICA,Enero 2017,Estación automática: disponibilidad las 24 horas
+102.0,Roseti,-58.4459867498295,-34.5864398918839,Roseti 50 y Av Dorrego,AUTOMÁTICA,Septiembre 2017,Estación automática: disponibilidad las 24 horas
+103.0,Malba,-58.4035331506686,-34.5774146206859,Av Figueroa Alcorta y San Martín de Tours,AUTOMÁTICA,Abril 2017,Estación automática: disponibilidad las 24 horas
+104.0,Federico Lacroze,-58.4550621945096,-34.5875483636412,Av Corrientes 6800 y Federico Lacroze,AUTOMÁTICA,Abril 2017,Estación automática: disponibilidad las 24 horas
+105.0,15 de Noviembre,-58.4009623109061,-34.6339776263697,15 de Noviembre de 1889 2687 entre Catamarca y Jujuy,AUTOMÁTICA,Marzo 2017,Estación automática: disponibilidad las 24 horas
+106.0,Rincón,-58.3958974659054,-34.6151962004792,Venezuela 2091 y Rincón,AUTOMÁTICA,Diciembre 2016,Estación automática: disponibilidad las 24 horas
+107.0,Hospital Garrahan,-58.3959443595269,-34.630437687185,Hospital Garrahan: Av Brasil y Pichincha,AUTOMÁTICA,Mayo 2017,Estación automática: disponibilidad las 24 horas
+108.0,Usina del Arte,-58.35625741449929,-34.6287807815099,Caffarena Agustín y Don Pedro de Mendoza,AUTOMÁTICA,Enero 2017,Estación automática: disponibilidad las 24 horas
+109.0,Lerma,-58.4295906822899,-34.5966937447772,Lerma 185 y Julián Álvarez,AUTOMÁTICA,Marzo 2017,Estación automática: disponibilidad las 24 horas
+110.0,Guardia Vieja,-58.415459396243,-34.6017606028946,Guardia Vieja 3606 entre Billinghurst y Mario Bravo,AUTOMÁTICA,Marzo 2017,Estación automática: disponibilidad las 24 horas
+111.0,Macacha Güemes,-58.3629996585557,-34.6049691631744,Macacha Guemes y Juana Manso,,,
+112.0,9 de Julio,-58.38076631152289,-34.6123893028971,9 de Julio y Moreno,AUTOMÁTICA,Febrero 2017,Estación automática: disponibilidad las 24 horas
+113.0,Guatemala,-58.42520465764979,-34.5856694443182,Guatemala 4799 entre J.L. Borges y Gurruchaga,AUTOMÁTICA,Marzo 2017,Estación automática: disponibilidad las 24 horas
+114.0,Della Paolera,-58.3725350641629,-34.5947530965532,Carlos M. Della Paolera 297 entre Leandro N Alem y Eduardo Madero,AUTOMÁTICA,Noviembre 2016,Estación automática: disponibilidad las 24 horas
+115.0,Quintana,-58.3907862838861,-34.5878120499245,Manuel Quintana 600,AUTOMÁTICA,Noviembre 2016,Estación automática: disponibilidad las 24 horas
+116.0,Hospital Alemán,-58.4025983842195,-34.59210424090089,Beruti y Ecuador,AUTOMÁTICA,Mayo 2017,Estación automática: disponibilidad las 24 horas
+117.0,Humberto Primo,-58.3742180079119,-34.6199404395595,Perú 1016 entre Humberto Primo y Carlos Calvo,AUTOMÁTICA,Mayo 2017,Estación automática: disponibilidad las 24 horas
+118.0,México,-58.4028266768832,-34.6168125831672,Saavedra y México,AUTOMÁTICA,Diciembre 2016,Estación automática: disponibilidad las 24 horas
+119.0,Emilio Mitre,-58.397684271763296,-34.5883718391208,Plaza Emilio Mitre - Larrea y Pacheco de Melo,AUTOMÁTICA,Febrero 2017,Estación automática: disponibilidad las 24 horas
+120.0,Hospital Ramos Mejía,-58.409110475451705,-34.6175490894938,"Agrelo entre  Gral. Urquiza, y Gral. La Rioja",AUTOMÁTICA,Diciembre 2016,Estación automática: disponibilidad las 24 horas
+121.0,Yatay,-58.428267593013494,-34.6008183886904,Yatay 925 entre Humahuaca y Guardia Vieja,AUTOMÁTICA,Noviembre 2016,Estación automática: disponibilidad las 24 horas
+122.0,Costa Rica,-58.4204074371223,-34.5916244590276,Costa Rica 4090 y Acuña de Figueroa,AUTOMÁTICA,Marzo 2017,Estación automática: disponibilidad las 24 horas
+123.0,Armenia,-58.421044153603795,-34.5854242215495,Armenia 2393 y Charcas,AUTOMÁTICA,Marzo 2017,Estación automática: disponibilidad las 24 horas
+124.0,Ugarteche,-58.412313560298394,-34.5810816066871,Ugarteche entre Cabello y Las Heras,AUTOMÁTICA,Marzo 2017,Estación automática: disponibilidad las 24 horas
+125.0,Oro,-58.4282171673392,-34.5834801072487,Fray Justo Santamaria de Oro y Guatemala,AUTOMÁTICA,Mayo 2017,Estación automática: disponibilidad las 24 horas
+126.0,Ministerio de Justicia y Seguridad,-58.369430546477396,-34.63997121461629,Regimiento de Patricios y Aráoz de Lamadrid,AUTOMÁTICA,Abril 2017,Estación automática: disponibilidad las 24 horas
+127.0,Santos Dumont y Otero,-58.4529268261496,-34.5922124775116,Santos Dumont 4380 y Otero,AUTOMÁTICA,Mayo 2017,Estación automática: disponibilidad las 24 horas
+128.0,Plaza Hipólito Bouchard,-58.3682319681783,-34.6041288551832,Plaza Hipólito Bouchard - Av Eduardo Madero y Perón Juan,AUTOMÁTICA,Febrero 2017,Estación automática: disponibilidad las 24 horas
+129.0,Velasco,-58.434954874725705,-34.600164664861104,Velasco 285 entre Julián Álvarez y Lavalleja,AUTOMÁTICA,Marzo 2017,Estación automática: disponibilidad las 24 horas
+130.0,Retiro II,-58.3742850966173,-34.5919408626661,Plaza Fuerza Aérea: Av. Dr. J. Ramos Mejia y Av Del Libertador,AUTOMÁTICA,Mayo 2017,Estación automática: disponibilidad las 24 horas
+131.0,Retiro III,-58.3742100283191,-34.5918464928405,Plaza Fuerza Aérea: Av. Dr. J. Ramos Mejia y Av Del Libertador,AUTOMÁTICA,Mayo 2017,Estación automática: disponibilidad las 24 horas
+132.0,Corrientes,-58.3736760826555,-34.6031208697631,Av Corrientes y San Martín,AUTOMÁTICA,Febrero 2017,Estación automática: disponibilidad las 24 horas
+133.0,Nicaragua,-58.4343825082215,-34.581039917576,Nicaragua 5690 entre Bonpland y Fitz Roy,AUTOMÁTICA,Mayo 2017,Estación automática: disponibilidad las 24 horas
+134.0,Don Bosco,-58.4155158417582,-34.6118758790199,Don Bosco y Virrey LIniers,AUTOMÁTICA,Enero 2017,Estación automática: disponibilidad las 24 horas
+135.0,Marcelo T. de Alvear,-58.3797648546651,-34.596455762618106,Marcelo T de Alvear y Suipacha,AUTOMÁTICA,Febrero 2017,Estación automática: disponibilidad las 24 horas
+136.0,Acevedo,-58.4429012738521,-34.5998125732878,Acevedo y Padilla,AUTOMÁTICA,Enero 2017,Estación automática: disponibilidad las 24 horas
+137.0,Azopardo y Chile,-58.3674700069781,-34.6159263966689,Azopardo 700 y Chile,AUTOMÁTICA,Mayo 2017,Estación automática: disponibilidad las 24 horas
+138.0,Hospital Británico,-58.387766665448396,-34.6349489594118,Perdriel y Finochietto Enrique,AUTOMÁTICA,Mayo 2017,Estación automática: disponibilidad las 24 horas
+139.0,Virrey Liniers,-58.41315046869151,-34.6333089848092,Salcedo 3401 y Virrey Liniers,AUTOMÁTICA,Marzo 2017,Estación automática: disponibilidad las 24 horas
+140.0,Las Casas,-58.415775044145796,-34.635148035031,Las Casas 3587 entre Av. Boedo y Alzaga,AUTOMÁTICA,Marzo 2017,Estación automática: disponibilidad las 24 horas
+141.0,Solís y Alsina,-58.3904105537014,-34.611837952645196,Solís 225 y Adolfo Alsina,AUTOMÁTICA,Mayo 2017,Estación automática: disponibilidad las 24 horas
+142.0,Armenia y Gorriti,-58.4288881956896,-34.590554215665996,Armenia 1525 entre Gorriti y Honduras,AUTOMÁTICA,Mayo 2017,Estación automática: disponibilidad las 24 horas
+143.0,Billinghurst y Valentín Gomez,-58.4157587038097,-34.6046352325181,Billinghurst 455 y Valentín Gomez,AUTOMÁTICA,Mayo 2017,Estación automática: disponibilidad las 24 horas
+144.0,Pueyrredón,-58.4057904124662,-34.601779712818605,Boulogne Sur Mer y Tucuman,AUTOMÁTICA,Marzo 2017,Estación automática: disponibilidad las 24 horas
+145.0,Ravignani,-58.4378366120078,-34.5804694653892,Ravignani 1883 y Costa Rica,AUTOMÁTICA,Abril 2017,Estación automática: disponibilidad las 24 horas
+146.0,Hospital Francés,-58.4077875519753,-34.6221944542981,Hospital Francés: Carlos Calvo y La Rioja,AUTOMÁTICA,Abril 2017,Estación automática: disponibilidad las 24 horas
+147.0,Constitución I,-58.37910486128021,-34.6274554061156,Av Brasil 1050 y Lima,AUTOMÁTICA,Mayo 2017,Estación automática: disponibilidad las 24 horas
+148.0,Constitución II,-58.379231885257795,-34.627494076458305,Av Brasil 1060 y Lima,AUTOMÁTICA,Mayo 2017,Estación automática: disponibilidad las 24 horas
+149.0,Lima,-58.3814348855933,-34.6153639565906,Lima y México,AUTOMÁTICA,Febrero 2017,Estación automática: disponibilidad las 24 horas
+150.0,Vera Peñaloza,-58.363090509170895,-34.6180820211727,Rosario Vera Peñaloza y Olga Cossettini,AUTOMÁTICA,Diciembre 2016,Estación automática: disponibilidad las 24 horas
+151.0,Aimé Painé,-58.360905798483,-34.6118079128888,Azucena Villaflor 553 entre Calabria y Aimé Painé,AUTOMÁTICA,Diciembre 2016,Estación automática: disponibilidad las 24 horas
+152.0,Julieta Lanteri,-58.35913142905361,-34.617485823733894,Vera Peñalosa entre Calabria y Julieta Lanteri,AUTOMÁTICA,Enero 2017,Estación automática: disponibilidad las 24 horas
+153.0,Juan Manuel Blanes,-58.362083360324796,-34.6306928058918,Juan Manuel Blanes 383,AUTOMÁTICA,Abril 2017,Estación automática: disponibilidad las 24 horas
+154.0,Gallo,-58.41210471914761,-34.6002248637866,Gallo y Tucumán,AUTOMÁTICA,Febrero 2017,Estación automática: disponibilidad las 24 horas
+155.0,Parque José Evaristo Uriburu,-58.4125592981411,-34.6417279105113,Pque. José E. Uriburu - Almafuerte 300,AUTOMÁTICA,Junio 2017,Estación automática: disponibilidad las 24 horas
+156.0,Plaza Alemania,-58.407965559468,-34.5778491087657,Plaza Alemania: Del Libertador Av y Cavia,AUTOMÁTICA,Junio 2017,Estación automática: disponibilidad las 24 horas
+157.0,Senillosa y Zuviría,-58.4279521831874,-34.6283092127138,Senillosa 989 y Zuviría,AUTOMÁTICA,Junio 2017,Estación automática: disponibilidad las 24 horas
+158.0,Villarroel,-58.44509865535971,-34.5928392137991,Villarroel y Humboldt,AUTOMÁTICA,Abril 2017,Estación automática: disponibilidad las 24 horas
+160.0,Godoy Cruz y Libertador,-58.42021025469279,-34.5729623675618,Godoy Cruz 3291 entre Av Del Libertador y Seguí,AUTOMÁTICA,Abril 2017,Estación automática: disponibilidad las 24 horas
+161.0,Humahuaca,-58.4196778632351,-34.60205792409489,Humahuaca 3918,AUTOMÁTICA,Enero 2017,Estación automática: disponibilidad las 24 horas
+162.0,Larrea y Bartolomé Mitre,-58.401945169855786,-34.609239096778396,Larrea entre Bartolomé Mitre y Av Rivadavia,AUTOMÁTICA,Junio 2017,Estación automática: disponibilidad las 24 horas
+163.0,Once II,-58.4066167991811,-34.6093554863347,Bartolomé Mitre y Av Pueyrredón,AUTOMÁTICA,Junio 2017,Estación automática: disponibilidad las 24 horas
+164.0,Facultad de Ingeniería,-58.366755289408395,-34.6180669522061,Estados Unidos entre Azopardo y Huergo Av,AUTOMÁTICA,Febrero 2017,Estación automática: disponibilidad las 24 horas
+165.0,Plaza Monseñor Miguel de Andrea,-58.40785166335999,-34.597763577063304,Plaza Monseñor Miguel de Andrea (Anchorena 900),AUTOMÁTICA,Junio 2017,Estación automática: disponibilidad las 24 horas
+166.0,Cementerio de la Recoleta,-58.3933174506005,-34.5891497441135,Vicente López 2050 entre Junín y Uriburu,AUTOMÁTICA,Inaugurada 3/10/2016,Estación automática: disponibilidad las 24 horas
+167.0,Hipólito Yrigoyen,-58.42878106059361,-34.61506434662,Hipolito Yrigoyen entre Muñiz y La Plata,AUTOMÁTICA,Marzo 2017,Estación automática: disponibilidad las 24 horas
+168.0,Estados Unidos,-58.3812826082139,-34.618619956816694,Estados Unidos y Lima,AUTOMÁTICA,Junio 2017,Estación automática: disponibilidad las 24 horas
+169.0,Facultad de Psicología,-58.4119247639604,-34.6120200280467,Hipólito Yrigoyen y 24 de Noviembre,AUTOMÁTICA,Julio 2017,Estación automática: disponibilidad las 24 horas
+170.0,San Luis y Ecuador,-58.4059662231588,-34.5997327041382,San Luis 2862 entre Ecuador y Boulogne Sur Mer,AUTOMÁTICA,Junio 2017,Estación automática: disponibilidad las 24 horas
+171.0,Pasteur,-58.3995268655325,-34.6032429525726,Pasteur 501 entre Tucumán y Lavalle,AUTOMÁTICA,Junio 2017,Estación automática: disponibilidad las 24 horas
+172.0,Brasil,-58.3709849319133,-34.6256071806032,Brasil y Defensa,AUTOMÁTICA,Abril 2017,Estación automática: disponibilidad las 24 horas
+173.0,Plaza Cecilia Grierson,-58.3747525088729,-34.6220599419731,Av San Juan 632,AUTOMÁTICA,Abril 2017,Estación automática: disponibilidad las 24 horas
+174.0,Ministerio de Educación,-58.39154877509871,-34.5972614724898,Marcelo T De Alvear 1698 y Rodríguez Peña,AUTOMÁTICA,Julio 2017,Estación automática: disponibilidad las 24 horas
+175.0,Esmeralda y Corrientes,-58.37810663722551,-34.6037187781396,Esmeralda y Av Corrientes,AUTOMÁTICA,Febrero 2017,Estación automática: disponibilidad las 24 horas
+176.0,Pinzón,-58.3609331461699,-34.6340720907317,Pinzón 469 y Martín Rodríguez,AUTOMÁTICA,Marzo 2017,Estación automática: disponibilidad las 24 horas
+177.0,Planetario,-58.4121585445467,-34.5680738913864,"Av. Roldan, Belisario y Av. Sarmiento",AUTOMÁTICA,Julio 2017,Estación automática: disponibilidad las 24 horas
+178.0,José Marmol,-58.42486660380939,-34.623457406189296,José Marmol 803 y Estados Unidos,AUTOMÁTICA,Julio 2017,Estación automática: disponibilidad las 24 horas
+179.0,La Boca,-58.3603993063349,-34.6391140733123,Don Pedro de Mendoza 1819,AUTOMÁTICA,Inauguración 05/12/2017,Estación automática: disponibilidad las 24 horas
+180.0,Castro y México,-58.4204709626304,-34.619802649015,Castro 680 entre México y Agrelo,AUTOMÁTICA,Julio 2017,Estación automática: disponibilidad las 24 horas
+181.0,Billinghurst y Mansilla,-58.411913670783605,-34.5926966138816,Billinghurst 1533 y Mansilla,AUTOMÁTICA,Abril 2017,Estación automática: disponibilidad las 24 horas
+182.0,Ravignani y Guatemala,-58.4352336081538,-34.5781909512788,Ravignani 2171 y Guatemala,AUTOMÁTICA,Mayo 2017,Estación automática: disponibilidad las 24 horas
+183.0,Virrey Cevallos,-58.389691907404696,-34.6156376341942,México 1652 entre Virrey Cevallos y Solís,AUTOMÁTICA,Julio 2017,Estación automática: disponibilidad las 24 horas
+184.0,Pedro Echague,-58.3913186324946,-34.630678908608,Pedro Echague 1878 entre Combate de los Pozos y Av Entre Ríos,AUTOMÁTICA,Agosto 2017,Estación automática: disponibilidad las 24 horas
+185.0,Av Pavón y 33 Orientales,-58.4217825750943,-34.6313699718195,"33 Orientales 1439, entre Av. Pavón y Av. Garay",AUTOMÁTICA,Julio 2017,Estación automática: disponibilidad las 24 horas
+186.0,Catamarca,-58.40714252984551,-34.6125512856829,Adolfo Alsina 2910 y Catamarca,AUTOMÁTICA,Julio 2017,Estación automática: disponibilidad las 24 horas
+187.0,Parque Rivadavia,-58.43179118261829,-34.617666753946196,Chaco 250,AUTOMÁTICA,Agosto 2017,Estación automática: disponibilidad las 24 horas
+188.0,Aranguren,-58.433506016027,-34.6107962769337,Aranguren 188 entre Portugal y Eduardo Acevedo,AUTOMÁTICA,Agosto 2017,Estación automática: disponibilidad las 24 horas
+189.0,Posadas,-58.3855860204811,-34.588474694640695,Posadas 1350 entre Montevideo y Rodríguez Peña,AUTOMÁTICA,Agosto 2017,Estación automática: disponibilidad las 24 horas
+190.0,Juncal,-58.41122742233949,-34.5850777556995,Juncal 3320 y Jerónimo Salguero,AUTOMÁTICA,Agosto 2017,Estación automática: disponibilidad las 24 horas
+191.0,Rivadavia y 9 de Julio,-58.38091227469621,-34.608231785988,Rivadavia y Carlos pellegrini,AUTOMÁTICA,Abril 2017,Estación automática: disponibilidad las 24 horas
+192.0,Talcahuano,-58.3856151032862,-34.5977988046358,Talcahuano 1034 y Marcelo T de Alvear,AUTOMÁTICA,Julio 2017,Estación automática: disponibilidad las 24 horas
+193.0,Arenales y Agüero,-58.40597385351211,-34.591110880844695,Arenales 2882 y Aguero,,,
+194.0,Perón y Francisco Acuña de Figueroa,-58.4225720421175,-34.605952483313395,"Perón, Juan Domingo Tte 3989 entre Francisco Acuña de Figueroa y Medrano",AUTOMÁTICA,Julio 2017,Estación automática: disponibilidad las 24 horas
+195.0,Plaza Garay,-58.387453831513604,-34.6270491370727,Av Juan de Garay y Luis Sáenz Peña,AUTOMÁTICA,Agosto 2017,Estación automática: disponibilidad las 24 horas
+196.0,Hospital Argerich,-58.36601904882379,-34.6277763431537,Pi y Margall 750 entre Necochea y Alte. Brown,AUTOMÁTICA,Agosto 2017,Estación automática: disponibilidad las 24 horas
+197.0,Quintino Bocayuva,-58.4234808584974,-34.6135962625509,Quintino Bocayuva y Don Bosco,AUTOMÁTICA,Agosto 2017,Estación automática: disponibilidad las 24 horas
+198.0,Hospital Sardá,-58.4041380643401,-34.6343800087707,Cátulo Castillo 2896 y Dean Funes,AUTOMÁTICA,Agosto 2017,Estación automática: disponibilidad las 24 horas
+199.0,Estados Unidos y Boedo,-58.415881554842905,-34.6224389438033,Estados Unidos 3568 entre Boedo y Maza,AUTOMÁTICA,Agosto 2017,Estación automática: disponibilidad las 24 horas
+200.0,Austria y French,-58.4043610826701,-34.5881914580956,Austria 2080 entre French y Juncal,AUTOMÁTICA,Septiembre 2017,Estación automática: disponibilidad las 24 horas
+,CMD,,,,,,
+,F. J. Santamaría de Oro,,,,,,
+,Fitz Roy y Gorriti,,,,,,
+,Ecoparque,,,,,,
